@@ -1,7 +1,7 @@
 # Test
 
 Deze repository bevat losse Python scripts met voorbeelden die je kunnen helpen
-bij het leren voor een MBO niveau 4 examen.
+bij het leren voor een python examen.
 
 ## Bestanden
 
